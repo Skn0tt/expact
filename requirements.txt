@@ -1,7 +1,7 @@
 pandas==1.3.5
 scipy==1.7.3
 dask==2022.2.0
-requests==2.28.1
+requests==2.32.2
 outlier_utils==0.0.3
 
 pre-commit
